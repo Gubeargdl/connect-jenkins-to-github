@@ -1,2 +1,3 @@
 # connect-jenkins-to-github
-For working with Jenkins
+Connecting Jenkins to GitHub.
+Pushing from github.
